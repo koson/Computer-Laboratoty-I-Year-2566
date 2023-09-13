@@ -9,8 +9,4 @@
 |65030007  |  นางสาวกนกศิริ  |  บุญคำ |
 |6fjoeherhgie5030007  |  นางสาวกนกศิริ  |  บุญคำ |
 
-<H1 align = center>Project Name </H1>
-
-
-![image](https://github.com/koson/Computer-Laboratoty-I-Year-2566/assets/567256/abc8d99a-7f9d-439e-be44-afe92816d392)
-  
+![image](https://github.com/koson/Computer-Laboratoty-I-Year-2566/assets/567256/83045b87-19a4-4ef7-b414-cd6b2cec3f5c)
